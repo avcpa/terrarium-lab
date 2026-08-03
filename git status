@@ -1,0 +1,23 @@
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6c6f019..f9202d0 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,7 +1,7 @@[m
+ <!DOCTYPE html>[m
+ <html lang="en">[m
+ <head>[m
+[31m-    <title>Welcome to my Virtual Terrarium</title>[m
+[32m+[m[32m    <title>Welcome to Ankur's Garden</title>[m
+     <meta charset="utf-8" />[m
+     <meta http-equiv="X-UA-Compatible" content="IE=edge" />[m
+     <meta name="viewport" content="width=device-width, initial-scale=1" />[m
+[36m@@ -26,7 +26,7 @@[m
+         </nav>[m
+ [m
+         <header>[m
+[31m-            <h1><i class="fas fa-jar"></i> My Terrarium</h1>[m
+[32m+[m[32m            <h1><i class="fas fa-jar"></i> ANKUR'S Terrarium</h1>[m
+             <p>Welcome to your virtual plant paradise! <i class="fas fa-smile-beam"></i></p>[m
+         </header>[m
+ [m
